@@ -1,0 +1,9 @@
+.button {
+  padding: 1rem;
+  cursor: pointer;
+}
+
+.active {
+  background-color: #e7fe29;
+  color: black;
+}
